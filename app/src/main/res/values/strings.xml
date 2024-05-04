@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WitchHunterKT</string>
+    <string name="points">Your Score: %1$d</string>
+    <string name="high_score">High Score: %1$d</string>
+</resources>
